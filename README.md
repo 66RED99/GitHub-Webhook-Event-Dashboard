@@ -19,7 +19,7 @@ The entire synopisi video can be found here: https://youtu.be/M3fhCidE1Fs
 ![Interface](screenshots/1.png)
 
 ### MongoDB data
-![MongoDB data](screenshotse/2.png)
+![MongoDB data](screenshots/2.png)
 
 ## Technologies Used
 
