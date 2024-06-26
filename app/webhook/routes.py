@@ -89,5 +89,5 @@ def index():
 
 @webhook.route('/webhook/events')
 def get_events():
-    events = list(mongo.db.events.find({}, {'_id': 0}).sort('timestamp', -1).limit(10))
+    events = list(mongo.db.events.find({}, {'_id': 0}).sort('timestamp', 1).limit(10))
     return jsonify(events)
