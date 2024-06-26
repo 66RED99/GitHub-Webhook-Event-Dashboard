@@ -1,3 +1,6 @@
+## Synopsis
+The entire synopisi video can be found here: https://youtu.be/M3fhCidE1Fs
+
 # GitHub Webhook Event Dashboard
 
 ## Overview
@@ -10,8 +13,6 @@ This project implements a GitHub webhook receiver that captures push, pull reque
 - Designed and maintained a MongoDB database to store and manage event data.
 - Created a dynamic web interface with JavaScript to display real-time updates of GitHub events.
 
-## Synopsis
-The entire synopisi video can be found here: https://youtu.be/M3fhCidE1Fs
 
 ## Screenshots
 
